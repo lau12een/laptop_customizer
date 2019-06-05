@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##Mock up
 
-![mock-up].(/images/mock-up.png)
+![mock-up](/images/mock-up.png)
